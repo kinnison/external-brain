@@ -86,7 +86,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
-    siteUrl: https://kinnison.github.io
+    siteUrl: https://kinnison.github.io/external-brain
     assetsPrefix: /external-brain
     seo:
         title: External brain
