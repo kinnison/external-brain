@@ -1,0 +1,11 @@
+{
+    "name": "io.github.kinnison.external-brain",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/kinnison/external-brain.git",
+    "author": "Daniel Silverstone <dsilvers@digital-scurf.org>",
+    "license": "CC-BY-SA 4.0",
+    "dependencies": {
+      "@dendronhq/dendron-cli": "*"
+    }
+  }
