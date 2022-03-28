@@ -4,7 +4,7 @@
     "main": "index.js",
     "repository": "https://github.com/kinnison/external-brain.git",
     "author": "Daniel Silverstone <dsilvers@digital-scurf.org>",
-    "license": "CC-BY-SA 4.0",
+    "license": "CC-BY-SA-4.0",
     "dependencies": {
       "@dendronhq/dendron-cli": "*"
     }
