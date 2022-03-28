@@ -84,6 +84,7 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - root
+        - example
     writeStubs: false
     siteRootDir: docs
     siteUrl: https://kinnison.github.io/external-brain
