@@ -1,0 +1,294 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "name": "vault",
+        "fsPath": ".",
+        "selfContained": true
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1648505913964,
+      "created": 1648505913964,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "jdz4a6j3m25f7bw5gabrsfc": {
+      "id": "jdz4a6j3m25f7bw5gabrsfc",
+      "title": "Root",
+      "desc": "",
+      "updated": 1648501556240,
+      "created": 1648501556240,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "name": "vault",
+        "fsPath": ".",
+        "selfContained": true
+      },
+      "contentHash": "78e22d508b3deb85464d83acfd5d2124",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "jdz4a6j3m25f7bw5gabrsfc",
+            "vaultName": "vault"
+          },
+          "value": "example.note",
+          "alias": "example note here",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 17,
+              "offset": 52
+            },
+            "end": {
+              "line": 4,
+              "column": 51,
+              "offset": 86
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "example.note"
+          }
+        }
+      ],
+      "anchors": {
+        "welcome-daniels-external-brain": {
+          "type": "header",
+          "text": "Welcome Daniel's external brain",
+          "value": "welcome-daniels-external-brain",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "9j7oqtfvp1zv2ngvnwvsku7"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "9j7oqtfvp1zv2ngvnwvsku7": {
+      "fname": "example",
+      "stub": true,
+      "vault": {
+        "name": "vault",
+        "fsPath": ".",
+        "selfContained": true
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1648505913927,
+      "created": 1648505913927,
+      "id": "9j7oqtfvp1zv2ngvnwvsku7",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "mvay6bfa7q09q3bj6phbguu"
+      ],
+      "parent": "jdz4a6j3m25f7bw5gabrsfc",
+      "data": {},
+      "title": "Example"
+    },
+    "mvay6bfa7q09q3bj6phbguu": {
+      "id": "mvay6bfa7q09q3bj6phbguu",
+      "title": "Example title",
+      "desc": "Enjoy the example",
+      "updated": 1648503846107,
+      "created": 1648503846107,
+      "custom": {},
+      "fname": "example.note",
+      "type": "note",
+      "vault": {
+        "name": "vault",
+        "fsPath": ".",
+        "selfContained": true
+      },
+      "contentHash": "d15089a663f50ac9c636a27f00169f6d",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 17,
+              "offset": 52
+            },
+            "end": {
+              "line": 4,
+              "column": 51,
+              "offset": 86
+            },
+            "indent": []
+          },
+          "value": "example.note",
+          "alias": "example note here"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "9j7oqtfvp1zv2ngvnwvsku7",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "jdz4a6j3m25f7bw5gabrsfc",
+      "title": "Root",
+      "desc": "",
+      "updated": 1648501556240,
+      "created": 1648501556240,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "name": "vault",
+        "fsPath": ".",
+        "selfContained": true
+      },
+      "contentHash": "78e22d508b3deb85464d83acfd5d2124",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "jdz4a6j3m25f7bw5gabrsfc",
+            "vaultName": "vault"
+          },
+          "value": "example.note",
+          "alias": "example note here",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 17,
+              "offset": 52
+            },
+            "end": {
+              "line": 4,
+              "column": 51,
+              "offset": 86
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "example.note"
+          }
+        }
+      ],
+      "anchors": {
+        "welcome-daniels-external-brain": {
+          "type": "header",
+          "text": "Welcome Daniel's external brain",
+          "value": "welcome-daniels-external-brain",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "9j7oqtfvp1zv2ngvnwvsku7"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n# Welcome Daniel's external brain\n\nYou can find an [[example note here|example.note]].\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "jdz4a6j3m25f7bw5gabrsfc",
+    "title": "Root",
+    "desc": "",
+    "updated": 1648501556240,
+    "created": 1648501556240,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "name": "vault",
+      "fsPath": ".",
+      "selfContained": true
+    },
+    "contentHash": "78e22d508b3deb85464d83acfd5d2124",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "jdz4a6j3m25f7bw5gabrsfc",
+          "vaultName": "vault"
+        },
+        "value": "example.note",
+        "alias": "example note here",
+        "position": {
+          "start": {
+            "line": 4,
+            "column": 17,
+            "offset": 52
+          },
+          "end": {
+            "line": 4,
+            "column": 51,
+            "offset": 86
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "example.note"
+        }
+      }
+    ],
+    "anchors": {
+      "welcome-daniels-external-brain": {
+        "type": "header",
+        "text": "Welcome Daniel's external brain",
+        "value": "welcome-daniels-external-brain",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "9j7oqtfvp1zv2ngvnwvsku7"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n# Welcome Daniel's external brain\n\nYou can find an [[example note here|example.note]].\n"
+  },
+  "vaults": [
+    {
+      "name": "vault",
+      "fsPath": ".",
+      "selfContained": true
+    }
+  ]
+}

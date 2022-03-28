@@ -1,0 +1,36 @@
+{
+  "roots": [
+    {
+      "key": "jdz4a6j3m25f7bw5gabrsfc",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "9j7oqtfvp1zv2ngvnwvsku7",
+          "title": "Example",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "mvay6bfa7q09q3bj6phbguu",
+              "title": "Example title",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "jdz4a6j3m25f7bw5gabrsfc": null,
+    "9j7oqtfvp1zv2ngvnwvsku7": "jdz4a6j3m25f7bw5gabrsfc",
+    "mvay6bfa7q09q3bj6phbguu": "9j7oqtfvp1zv2ngvnwvsku7"
+  }
+}
